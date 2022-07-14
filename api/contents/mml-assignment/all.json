@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-14T17:51:11.638507Z",
+      "format": null,
+      "last_modified": "2022-07-14T17:50:02.522078Z",
+      "mimetype": null,
+      "name": "Week2-1 - Linear Algebra 1.ipynb",
+      "path": "mml-assignment/Week2-1 - Linear Algebra 1.ipynb",
+      "size": 13078,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-14T17:51:11.638507Z",
+  "format": "json",
+  "last_modified": "2022-07-14T17:51:11.638507Z",
+  "mimetype": null,
+  "name": "mml-assignment",
+  "path": "mml-assignment",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
