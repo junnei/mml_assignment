@@ -1,6 +1,6 @@
 # MML-Assignment
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://junnei.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://junnei.github.io/mml_assignment)
 
 Mathematics For Machine Learning Study - Assignment Page with Jupyterlite
 

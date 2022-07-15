@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-15T03:33:45.823267Z",
+      "created": "2022-07-15T05:03:07.680404Z",
       "format": null,
-      "last_modified": "2022-07-15T03:33:45.823267Z",
+      "last_modified": "2022-07-15T05:03:07.680404Z",
       "mimetype": null,
       "name": "mml-assignment",
       "path": "mml-assignment",
@@ -14,21 +14,21 @@
     },
     {
       "content": null,
-      "created": "2022-07-15T03:33:45.803267Z",
+      "created": "2022-07-15T05:03:07.668404Z",
       "format": null,
-      "last_modified": "2022-07-15T03:33:43.635266Z",
+      "last_modified": "2022-07-15T05:03:05.680427Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
-      "size": 1440,
+      "size": 1450,
       "type": "file",
       "writable": true
     },
     {
       "content": null,
-      "created": "2022-07-15T03:33:45.823267Z",
+      "created": "2022-07-15T05:03:07.680404Z",
       "format": null,
-      "last_modified": "2022-07-15T03:33:45.823267Z",
+      "last_modified": "2022-07-15T05:03:07.680404Z",
       "mimetype": null,
       "name": "jupyterlite-demo",
       "path": "jupyterlite-demo",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-15T03:33:45.823267Z",
+  "created": "2022-07-15T05:03:07.680404Z",
   "format": "json",
-  "last_modified": "2022-07-15T03:33:45.823267Z",
+  "last_modified": "2022-07-15T05:03:07.680404Z",
   "mimetype": null,
   "name": "",
   "path": "",

@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-15T03:33:45.819267Z",
+      "created": "2022-07-15T05:03:07.676404Z",
       "format": null,
-      "last_modified": "2022-07-15T03:33:45.819267Z",
+      "last_modified": "2022-07-15T05:03:07.676404Z",
       "mimetype": null,
       "name": "games",
       "path": "jupyterlite-demo/pyolite/pyb2d/games",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-15T03:33:45.819267Z",
+      "created": "2022-07-15T05:03:07.676404Z",
       "format": null,
-      "last_modified": "2022-07-15T03:32:28.755224Z",
+      "last_modified": "2022-07-15T05:02:06.620646Z",
       "mimetype": null,
       "name": "color_mixing.ipynb",
       "path": "jupyterlite-demo/pyolite/pyb2d/color_mixing.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-15T03:33:45.819267Z",
+      "created": "2022-07-15T05:03:07.676404Z",
       "format": null,
-      "last_modified": "2022-07-15T03:32:28.755224Z",
+      "last_modified": "2022-07-15T05:02:06.620646Z",
       "mimetype": null,
       "name": "0_tutorial.ipynb",
       "path": "jupyterlite-demo/pyolite/pyb2d/0_tutorial.ipynb",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-15T03:33:45.819267Z",
+      "created": "2022-07-15T05:03:07.676404Z",
       "format": null,
-      "last_modified": "2022-07-15T03:32:28.755224Z",
+      "last_modified": "2022-07-15T05:02:06.620646Z",
       "mimetype": null,
       "name": "gauss_machine.ipynb",
       "path": "jupyterlite-demo/pyolite/pyb2d/gauss_machine.ipynb",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-15T03:33:45.819267Z",
+      "created": "2022-07-15T05:03:07.676404Z",
       "format": null,
-      "last_modified": "2022-07-15T03:32:28.755224Z",
+      "last_modified": "2022-07-15T05:02:06.620646Z",
       "mimetype": null,
       "name": "newtons_cradle.ipynb",
       "path": "jupyterlite-demo/pyolite/pyb2d/newtons_cradle.ipynb",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-15T03:33:45.819267Z",
+  "created": "2022-07-15T05:03:07.676404Z",
   "format": "json",
-  "last_modified": "2022-07-15T03:33:45.819267Z",
+  "last_modified": "2022-07-15T05:03:07.676404Z",
   "mimetype": null,
   "name": "pyb2d",
   "path": "jupyterlite-demo/pyolite/pyb2d",

@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-15T03:33:45.823267Z",
+      "created": "2022-07-15T05:03:07.680404Z",
       "format": null,
-      "last_modified": "2022-07-15T03:32:28.759224Z",
+      "last_modified": "2022-07-15T05:02:06.620646Z",
       "mimetype": null,
       "name": "widgets.ipynb",
       "path": "jupyterlite-demo/xeus-lua/widgets.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-15T03:33:45.819267Z",
+      "created": "2022-07-15T05:03:07.676404Z",
       "format": null,
-      "last_modified": "2022-07-15T03:32:28.755224Z",
+      "last_modified": "2022-07-15T05:02:06.620646Z",
       "mimetype": null,
       "name": "canvas.ipynb",
       "path": "jupyterlite-demo/xeus-lua/canvas.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-15T03:33:45.823267Z",
+      "created": "2022-07-15T05:03:07.676404Z",
       "format": null,
-      "last_modified": "2022-07-15T03:32:28.759224Z",
+      "last_modified": "2022-07-15T05:02:06.620646Z",
       "mimetype": null,
       "name": "game-of-life.ipynb",
       "path": "jupyterlite-demo/xeus-lua/game-of-life.ipynb",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-15T03:33:45.823267Z",
+  "created": "2022-07-15T05:03:07.680404Z",
   "format": "json",
-  "last_modified": "2022-07-15T03:33:45.823267Z",
+  "last_modified": "2022-07-15T05:03:07.680404Z",
   "mimetype": null,
   "name": "xeus-lua",
   "path": "jupyterlite-demo/xeus-lua",
