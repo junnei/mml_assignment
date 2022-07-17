@@ -2,20 +2,32 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-15T17:20:11.703907Z",
+      "created": "2022-07-17T11:56:04.939352Z",
       "format": null,
-      "last_modified": "2022-07-15T17:20:11.703907Z",
+      "last_modified": "2022-07-17T11:56:04.939352Z",
       "mimetype": null,
       "name": "Week2-1",
       "path": "mml-assignment/Week2-1",
       "size": null,
       "type": "directory",
       "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-17T11:56:04.943352Z",
+      "format": null,
+      "last_modified": "2022-07-17T11:56:04.943352Z",
+      "mimetype": null,
+      "name": "Week2-2",
+      "path": "mml-assignment/Week2-2",
+      "size": null,
+      "type": "directory",
+      "writable": true
     }
   ],
-  "created": "2022-07-15T17:20:11.703907Z",
+  "created": "2022-07-17T11:56:04.939352Z",
   "format": "json",
-  "last_modified": "2022-07-15T17:20:11.703907Z",
+  "last_modified": "2022-07-17T11:56:04.939352Z",
   "mimetype": null,
   "name": "mml-assignment",
   "path": "mml-assignment",

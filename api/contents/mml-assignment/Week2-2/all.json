@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-17T11:56:04.939352Z",
+      "format": null,
+      "last_modified": "2022-07-17T11:54:53.387258Z",
+      "mimetype": "image/png",
+      "name": "Linear_transform.png",
+      "path": "mml-assignment/Week2-2/Linear_transform.png",
+      "size": 71212,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-17T11:56:04.943352Z",
+      "format": null,
+      "last_modified": "2022-07-17T11:54:53.387258Z",
+      "mimetype": null,
+      "name": "Week2-2 - Linear Algebra 2.ipynb",
+      "path": "mml-assignment/Week2-2/Week2-2 - Linear Algebra 2.ipynb",
+      "size": 325950,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-17T11:56:04.943352Z",
+      "format": null,
+      "last_modified": "2022-07-17T11:54:53.387258Z",
+      "mimetype": "image/jpeg",
+      "name": "my_image.jpg",
+      "path": "mml-assignment/Week2-2/my_image.jpg",
+      "size": 90446,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-17T11:56:04.943352Z",
+  "format": "json",
+  "last_modified": "2022-07-17T11:56:04.943352Z",
+  "mimetype": null,
+  "name": "Week2-2",
+  "path": "mml-assignment/Week2-2",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
