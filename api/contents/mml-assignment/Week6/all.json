@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-13T05:20:44.953124Z",
+      "format": null,
+      "last_modified": "2022-08-13T05:19:33.300156Z",
+      "mimetype": null,
+      "name": "Week 6 Probability and Distribution.ipynb",
+      "path": "mml-assignment/Week6/Week 6 Probability and Distribution.ipynb",
+      "size": 19026,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-13T05:20:44.953124Z",
+  "format": "json",
+  "last_modified": "2022-08-13T05:20:44.953124Z",
+  "mimetype": null,
+  "name": "Week6",
+  "path": "mml-assignment/Week6",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
