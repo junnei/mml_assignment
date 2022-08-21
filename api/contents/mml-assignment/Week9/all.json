@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-21T12:30:18.338821Z",
+      "format": null,
+      "last_modified": "2022-08-21T12:29:06.189488Z",
+      "mimetype": "image/png",
+      "name": "Formula.png",
+      "path": "mml-assignment/Week9/Formula.png",
+      "size": 139529,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-21T12:30:18.342821Z",
+      "format": null,
+      "last_modified": "2022-08-21T12:29:06.193489Z",
+      "mimetype": null,
+      "name": "Week9. Linear Regression.ipynb",
+      "path": "mml-assignment/Week9/Week9. Linear Regression.ipynb",
+      "size": 127089,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-21T12:30:18.338821Z",
+  "format": "json",
+  "last_modified": "2022-08-21T12:30:18.338821Z",
+  "mimetype": null,
+  "name": "Week9",
+  "path": "mml-assignment/Week9",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
